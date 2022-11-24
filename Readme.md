@@ -19,5 +19,8 @@ uvicorn main:app --reload --port 5000
 # Testando
 
 Para testar acesse `http://localhost:5000` <br>
-Em seguida cofira a pasta `/out` na raiz do projeto <br>
-Ela deverá ter um novo arquivo csv pra cada chamada feita na api
+Em seguida confira a pasta `/out` na raiz do projeto <br>
+Ela deverá conter um novo arquivo csv pra cada chamada feita na api
+
+
+[Jira](https://plugpagamentos.atlassian.net/browse/DAS-640)
